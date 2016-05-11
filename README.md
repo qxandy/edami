@@ -38,7 +38,7 @@ Note: you may also change the number of loops in Trajectory.m if the number of e
 
 =========================================================================
 
-How to compile MI_QXex.cpp?
+How to compile MI.cpp?
 
 Compile_MI.m shows an example in windows system using Visual Studio. It makes a difference if you compile this file using some optimisation options, as well as multi-thread libs in C++11 standard library. If you use g++, you may have to google it, but it should not be hard to find.
 
